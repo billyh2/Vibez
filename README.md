@@ -16,7 +16,8 @@ Follow these steps to set up and run **Vibez** on your device or the simulator.
 - **iOS Simulator** (or a physical iPhone running iOS 16+)  
 
 ### 🔧 Installation & Setup  
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/Vibez.git
-   cd Vibez
+1. **Download Zip File**  
+2. Open Vibez.swiftpm
+
+### 🎥 Demo
+Link: https://youtu.be/U_Ts4dcCZG0
